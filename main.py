@@ -45,4 +45,4 @@ json_data ={"Author":author,
 
 pprint(json_data)
 with open("data.json", "w") as file:
-    json.dump(json_data, file)
+    json.dump(json_data, file , indent =4)
