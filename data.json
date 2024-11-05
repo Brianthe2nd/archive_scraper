@@ -1,6 +1,79 @@
-{
-    "Author": "@Booozaroo",
-    "Reply": "This was actually supposed to be pose practice I used reference for the pose ofc\n\nAlso decided to draw kitsune boy with his hair down??!!?!!?pic.twitter.com/geW49jkroJ",
-    "Reply_time": "9:11 PM - 17 Jun 2020",
-    "Likes": "2"
-}
+[
+    {
+        "Ancestor_tweets_available": true,
+        "Descendant_tweets_available": false,
+        "Ancestor_tweets": [
+            {
+                "Author_display_title": "🏳️‍🌈Childish Gamyeeno 🏳️‍🌈",
+                "Author_username": "@NekroVEVO",
+                "Tweet_time_stamp": "7:24 AM - 27 Feb 2019",
+                "Display_time": "9 minutes ago",
+                "Tweet_content": "tempted now to make a video on @KEEMSTAR to just nit pick everything he is doing wrong and disect everything, expect that soon",
+                "Image_available": true,
+                "Image": "https://web.archive.org/web/20190227153414/https://twitter.com/KEEMSTAR",
+                "Reactions": {
+                    "Likes": "1",
+                    "Retweets": "0",
+                    "Replies": "4"
+                }
+            },
+            {
+                "Author_display_title": "a fox",
+                "Author_username": "@thedem0n0",
+                "Tweet_time_stamp": "7:26 AM - 27 Feb 2019",
+                "Display_time": "7 minutes ago",
+                "Tweet_content": "I honestly keep getting messages telling me how trash furries are",
+                "Image_available": false,
+                "Image": null,
+                "Reactions": {
+                    "Likes": "0",
+                    "Retweets": "0",
+                    "Replies": "2"
+                }
+            },
+            {
+                "Author_display_title": "🏳️‍🌈Childish Gamyeeno 🏳️‍🌈",
+                "Author_username": "@NekroVEVO",
+                "Tweet_time_stamp": "7:27 AM - 27 Feb 2019",
+                "Display_time": "6 minutes ago",
+                "Tweet_content": "wellit seems like if one person (in this case keem) says something is bad, everyone assumes were bad without getting facts to formulate a good opinion, dont even bother with them at this point",
+                "Image_available": false,
+                "Image": null,
+                "Reactions": {
+                    "Likes": "0",
+                    "Retweets": "0",
+                    "Replies": "1"
+                }
+            },
+            {
+                "Author_display_title": "a fox",
+                "Author_username": "@thedem0n0",
+                "Tweet_time_stamp": "7:33 AM - 27 Feb 2019",
+                "Display_time": "45 seconds ago",
+                "Tweet_content": "Exaaaactly! It pisses me off to see all these famous people brainwash people. If everyone just sat down and talked to each other, they'd know that furries are some of the nicest people ever. I'll be sure to stay away from them lol",
+                "Image_available": false,
+                "Image": null,
+                "Reactions": {
+                    "Likes": "0",
+                    "Retweets": "0",
+                    "Replies": "1"
+                }
+            }
+        ],
+        "Main_tweet": {
+            "Author_display_title": "🏳️‍🌈Childish Gamyeeno 🏳️‍🌈",
+            "Author_username": "@NekroVEVO",
+            "Tweet_time_stamp": "7:34 AM - 27 Feb 2019",
+            "Display_time": "7 seconds ago",
+            "Tweet_content": "please do,dont fuel there fire",
+            "Image_available": false,
+            "Image": null,
+            "Reactions": {
+                "Likes": "0",
+                "Retweets": "0",
+                "Replies": "0"
+            }
+        },
+        "Descendant_tweets": []
+    }
+]
